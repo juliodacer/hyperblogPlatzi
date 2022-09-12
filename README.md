@@ -10,3 +10,5 @@ Un blog increible para [Google](https://www.google.com.pe/)
 
 Y como amable recordatorio: **Este readme.md es un chiste**
 Utilizando nuevos conocimientos
+Incluye nuevos ejemplos
+Disponibles para todas las edades
